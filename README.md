@@ -2,6 +2,9 @@
 Project Information
 TODO: Write this page.
 
+# RocketChat Support
+There is a RocketChat page where you can ask questions and suggest features: https://osp.teske.net.br/
+
 # GOES Dump Configuration File
 
 In latest commit we added support to configuration file on GOES Dump. It's named `user.config`
