@@ -22,9 +22,9 @@ The properties are:
 * `HTTPPort` => HTTP Server Port (default: **8090**)
 * `GenerateFDFalseColor` => Generate FullDisk False Color Images (default: **true**)
 * `GenerateNHFalseColor` => Generate Northern Hemisphere False Color Images (default: **true**)
-* `GenerateSHFalseColor` =>  Generate Northern Hemisphere False Color Images (default: **true**)
-* `GenerateXXFalseColor` =>  Generate Northern Hemisphere False Color Images (default: **true**)
-* `GenerateUSFalseColor` =>  Generate Northern Hemisphere False Color Images (default: **true**)
+* `GenerateSHFalseColor` =>  Generate Southern Hemisphere False Color Images (default: **true**)
+* `GenerateXXFalseColor` =>  Generate Area of Interest False Color Images (default: **true**)
+* `GenerateUSFalseColor` =>  Generate United States False Color Images (default: **true**)
 
 Property Syntax:
 ```xml
