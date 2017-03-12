@@ -4,12 +4,12 @@ TODO: Write this page.
 
 # GOES Dump Configuration File
 
-In latest commit we added support to configuration file on GOES Dump. 
+In latest commit we added support to configuration file on GOES Dump. It's named `user.config`
 
 On Linux the configuration file is under: `~/.local/share/OpenSatelliteProject/goesdump.exe_Url_XXXX/`
 On Windows the configuration file is under: **TODO**
 
-The parameters are:
+The properties are:
 
 * `EnableEMWIN` => Enable EMWIN Processing (default: **false**)
 * `EnableDCS`   => Enable DCS Processing (default: **false**)
