@@ -3,7 +3,7 @@ Project Information
 TODO: Write this page.
 
 # Support
-There is a RocketChat page where you can ask questions and suggest features: https://osp.teske.net.br/ , there is also a forum that you can ask your questions and see tutorials / setups from other members: http://hearsat.online/viewforum.php?f=18
+There is a RocketChat page where you can ask questions and suggest features: [https://osp.teske.net.br/](https://osp.teske.net.br/) , there is also a forum that you can ask your questions and see tutorials / setups from other members: [http://hearsat.online/viewforum.php?f=18](http://hearsat.online/viewforum.php?f=18)
 
 # GOES Dump Configuration File
 
