@@ -2,8 +2,8 @@
 Project Information
 TODO: Write this page.
 
-# RocketChat Support
-There is a RocketChat page where you can ask questions and suggest features: https://osp.teske.net.br/
+# Support
+There is a RocketChat page where you can ask questions and suggest features: https://osp.teske.net.br/ , there is also a forum that you can ask your questions and see tutorials / setups from other members: http://hearsat.online/viewforum.php?f=18
 
 # GOES Dump Configuration File
 
@@ -23,11 +23,16 @@ The properties are:
 * `StatisticsServerName` => Statistics Data Server Hostname (default: **localhost**)
 * `StatisticsServerPort` => Statistics Data Server Port (default: **5002**)
 * `HTTPPort` => HTTP Server Port (default: **8090**)
+* `EraseFilesAfterGeneratingFalseColor` => Erase `.lrit` files after generating false color. (default **false**)
+* `MaxGenerateRetry` => Max tries to generate a JPEG Image (False Color or not) before giving up. (default **3**)
 * `GenerateFDFalseColor` => Generate FullDisk False Color Images (default: **true**)
 * `GenerateNHFalseColor` => Generate Northern Hemisphere False Color Images (default: **true**)
 * `GenerateSHFalseColor` =>  Generate Southern Hemisphere False Color Images (default: **true**)
 * `GenerateXXFalseColor` =>  Generate Area of Interest False Color Images (default: **true**)
 * `GenerateUSFalseColor` =>  Generate United States False Color Images (default: **true**)
+* `GenerateVisibleImages` => Generate Visible Images as JPEG (default: **false**)
+* `GenerateInfraredImages` => Generate Infrared Images as JPEG (default: **false**)
+* `GenerateWaterVapourImages` => Generate Water Vapour Images as JPEG (default: **false**)
 
 Property Syntax:
 ```xml
