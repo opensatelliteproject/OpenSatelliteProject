@@ -19,12 +19,12 @@ The properties are:
 * `ChannelDataServerName` => Channel Data Server Hostname (default: **localhost**)
 * `ChannelDataServerPort` => Channel Data Server Port (default: **5001**)
 * `ConstellationServerName` => Constellation Data Server Hostname (default: **localhost**)
-* `ConstellationServerPort` => Constellation Data Server Port (default **9000**)
+* `ConstellationServerPort` => Constellation Data Server Port (default: **9000**)
 * `StatisticsServerName` => Statistics Data Server Hostname (default: **localhost**)
 * `StatisticsServerPort` => Statistics Data Server Port (default: **5002**)
 * `HTTPPort` => HTTP Server Port (default: **8090**)
-* `EraseFilesAfterGeneratingFalseColor` => Erase `.lrit` files after generating false color. (default **false**)
-* `MaxGenerateRetry` => Max tries to generate a JPEG Image (False Color or not) before giving up. (default **3**)
+* `EraseFilesAfterGeneratingFalseColor` => Erase `.lrit` files after generating false color. (default: **false**)
+* `MaxGenerateRetry` => Max tries to generate a JPEG Image (False Color or not) before giving up. (default: **3**)
 * `GenerateFDFalseColor` => Generate FullDisk False Color Images (default: **true**)
 * `GenerateNHFalseColor` => Generate Northern Hemisphere False Color Images (default: **true**)
 * `GenerateSHFalseColor` =>  Generate Southern Hemisphere False Color Images (default: **true**)
@@ -33,6 +33,8 @@ The properties are:
 * `GenerateVisibleImages` => Generate Visible Images as JPEG (default: **false**)
 * `GenerateInfraredImages` => Generate Infrared Images as JPEG (default: **false**)
 * `GenerateWaterVapourImages` => Generate Water Vapour Images as JPEG (default: **false**)
+* `SysLogServer` => Hostname or IP address of the remote syslog server (default: **localhost**)
+* `SysLogFacility` => Syslog facility code for logged messages (default: **LOG_USER**)
 
 Property Syntax:
 ```xml
