@@ -4,7 +4,7 @@ TODO: Write this page.
 
 # Compiling Guide (Ubuntu 16.04)
 
-That compile guide is a adapted version from @hdoverobinson that was published on gist and OSP Rocket chat. He also created a script to automatically download deps and build OSP! You can check it here: https://gist.github.com/hdoverobinson/82e3f08c34052d36c92e8db5a027d129
+That compile guide is a adapted version from @hdoverobinson that was published on gist and OSP Rocket chat. He also created a script to automatically download deps and build OSP! You can check it here: [https://gist.github.com/hdoverobinson/82e3f08c34052d36c92e8db5a027d129](https://gist.github.com/hdoverobinson/82e3f08c34052d36c92e8db5a027d129)
 
 1. Download needed dependencies
 ```bash
