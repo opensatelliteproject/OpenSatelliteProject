@@ -91,7 +91,6 @@ cd ..
 5. Get the Web Interface
 
 The web interface package can be downloaded here: https://github.com/opensatelliteproject/goesdump/releases/tag/1.0.2-beta named as `goes-web.zip`. Just extract all content under a `web` folder inside `OSP/bin`.
-
 ```bash
 # Download it
 wget https://github.com/opensatelliteproject/goesdump/releases/download/1.0.2-beta/goesdump-web.zip
